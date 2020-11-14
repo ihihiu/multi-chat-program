@@ -1,0 +1,10 @@
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\bin\Debug\ChatMultiClient.exe.config
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\bin\Debug\ChatMultiClient.exe
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\bin\Debug\ChatMultiClient.pdb
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\obj\Debug\ChatMultiClient.csprojAssemblyReference.cache
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\obj\Debug\ChatMultiClient.Form1.resources
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\obj\Debug\ChatMultiClient.Properties.Resources.resources
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\obj\Debug\ChatMultiClient.csproj.GenerateResource.cache
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\obj\Debug\ChatMultiClient.csproj.CoreCompileInputs.cache
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\obj\Debug\ChatMultiClient.exe
+C:\Users\윤지은\source\repos\ChatMultiClient\ChatMultiClient\obj\Debug\ChatMultiClient.pdb

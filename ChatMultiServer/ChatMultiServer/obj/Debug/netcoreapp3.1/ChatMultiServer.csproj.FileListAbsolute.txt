@@ -1,0 +1,13 @@
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\bin\Debug\netcoreapp3.1\ChatMultiServer.exe
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\bin\Debug\netcoreapp3.1\ChatMultiServer.deps.json
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\bin\Debug\netcoreapp3.1\ChatMultiServer.runtimeconfig.json
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\bin\Debug\netcoreapp3.1\ChatMultiServer.runtimeconfig.dev.json
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\bin\Debug\netcoreapp3.1\ChatMultiServer.dll
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\bin\Debug\netcoreapp3.1\ChatMultiServer.pdb
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\obj\Debug\netcoreapp3.1\ChatMultiServer.csprojAssemblyReference.cache
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\obj\Debug\netcoreapp3.1\ChatMultiServer.AssemblyInfoInputs.cache
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\obj\Debug\netcoreapp3.1\ChatMultiServer.AssemblyInfo.cs
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\obj\Debug\netcoreapp3.1\ChatMultiServer.csproj.CoreCompileInputs.cache
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\obj\Debug\netcoreapp3.1\ChatMultiServer.dll
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\obj\Debug\netcoreapp3.1\ChatMultiServer.pdb
+C:\Users\윤지은\source\repos\ChatMultiServer\ChatMultiServer\obj\Debug\netcoreapp3.1\ChatMultiServer.genruntimeconfig.cache
